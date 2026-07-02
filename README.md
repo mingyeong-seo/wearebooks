@@ -56,7 +56,7 @@
 
 검색형 사용자와 탐색형 사용자의 흐름을 분리하고, 회원/비회원 상태에 따라 구매 및 장바구니 이용 가능 여부가 달라지도록 설계했습니다.
 
-<img src="./assets/flow.png" alt="서비스 흐름" width="800" />
+<img src="https://github.com/mingyeong-seo/wearebooks/blob/main/assets/flow.png?raw=true" alt="서비스 흐름" width="800" />
 ---
 
 ## 담당 역할
